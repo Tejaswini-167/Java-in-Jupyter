@@ -1,16 +1,11 @@
-# Java-in-Jupyter
-Awesome — here’s a **ready-to-paste, professional README.md** for your `Java-in-Jupyter` repo.
-👉 Replace the image filenames under `images/` with your actual screenshots (or keep the names I used and save your images with those names).
-
----
 
 # Java in Jupyter
 
 Run **Java** code directly inside **Jupyter Notebooks** using the **IJava** kernel.
 Perfect for interactive learning, demos, assignments, and sharing runnable Java notes.
 
-> ✅ Works on Windows, macOS, and Linux
-> ✅ Uses JShell under the hood (so you can run snippets, not just full classes)
+>  Works on Windows, macOS, and Linux
+>  Uses JShell under the hood (so you can run snippets, not just full classes)
 
 ---
 
@@ -20,16 +15,13 @@ Perfect for interactive learning, demos, assignments, and sharing runnable Java 
 * [Prerequisites](#prerequisites)
 * [Quick Start](#quick-start)
 * [Install the IJava Kernel](#install-the-ijava-kernel)
-
   * [Option A: Prebuilt installer (recommended)](#option-a-prebuilt-installer-recommended)
-  * [Option B: Build from source (Gradle)](#option-b-build-from-source-gradle)
 * [Verify the Kernel](#verify-the-kernel)
 * [Run Your First Notebook](#run-your-first-notebook)
 * [Example Notebooks](#example-notebooks)
 * [Screenshots](#screenshots)
 * [Troubleshooting](#troubleshooting)
-* [Contributing](#contributing)
-* [License](#license)
+
 
 ---
 
@@ -100,18 +92,6 @@ System.out.println("Hello from Java in Jupyter!");
 
 > Windows tip: Right-click the ZIP → **Extract All…**. Then open **cmd** and `cd` into that folder.
 
-### Option B: Build from source (Gradle)
-
-If you prefer building from source:
-
-```bash
-git clone https://github.com/SpencerPark/IJava.git
-cd IJava
-# Windows:
-gradlew installKernel
-# macOS/Linux:
-./gradlew installKernel
-```
 
 ---
 
@@ -246,29 +226,3 @@ java --list-modules | findstr jdk.jshell
 ```
 
 ---
-
-## Contributing
-
-PRs are welcome!
-
-* Add new example notebooks
-* Improve the setup guide / screenshots
-* Fix typos or suggest structure improvements
-
----
-
-## License
-
-MIT — feel free to use, modify, and share.
-
----
-
-### How to Add Your Screenshots Quickly
-
-* Create `images/` in the repo.
-* Upload your PNGs/JPGs.
-* Update the image links above (e.g., `images/kernel_select.png`).
-* Commit the README changes.
-
----
-
