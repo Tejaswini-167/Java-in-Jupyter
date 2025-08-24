@@ -1,4 +1,8 @@
 # Java-in-Jupyter
- Java in Jupyter  This repository explains how you can run 
- #Java programs inside Jupyter Notebook using [IJava kernel](https://github.com/SpencerPark/IJava).   
- It’s perfect for students, beginners, and professionals who want to combine the power of **Jupyter’s interactivity** with **Java programming**.
+ ## Example Notebooks
+
+Explore the examples in the `notebooks/` directory:
+- [HelloWorld](notebooks/HelloWorld.ipynb) — Your first Java snippet
+- [Arithmetic](notebooks/Arithmetic.ipynb) — Basic math operations
+- [Loops](notebooks/Loops.ipynb) — For and while loops
+- [Class Example](notebooks/Class_Example.ipynb) — Defining & using Java classes
