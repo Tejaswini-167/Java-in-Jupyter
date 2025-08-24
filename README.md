@@ -166,22 +166,20 @@ All example notebooks live in the **`notebooks/`** folder:
 * [Loops.ipynb](notebooks/Loops.ipynb) — `for` and `while` loops
 * [Class\_Example.ipynb](notebooks/Class_Example.ipynb) — defining & using a class
 
-> Tip: Open each notebook and run cells top-to-bottom (Shift+Enter).
+
 
 ---
 
-## Screenshots
+### Screenshots
 
-> Put your images in an `images/` folder and use these markdown lines (update filenames if needed).
+**Selecting Java Kernel**  
+![Kernel selection](images/kernel_selection.png)
 
-**Selecting Java kernel**
-![Kernel selection](images/kernel_select.png)
-
-**Running Hello World**
+**Running Hello World**  
 ![Hello output](images/hello_output.png)
 
-**Install output (optional)**
-![Install logs](images/install_console.png)
+**Install output (optional)**  
+![Install logs](images/install_logs.png)
 
 ---
 
