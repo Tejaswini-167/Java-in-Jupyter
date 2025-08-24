@@ -172,14 +172,20 @@ All example notebooks live in the **`notebooks/`** folder:
 
 ### Screenshots
 
-**Selecting Java Kernel**  
-![Kernel selection](images/kernel_selection.png)
+**Selecting Java Kernel** 
+
+![Kernel selection](https://github.com/Tejaswini-167/Java-in-Jupyter/blob/main/images/Kernal_Selection.png)
+
 
 **Running Hello World**  
-![Hello output](images/hello_output.png)
 
-**Install output (optional)**  
+![Hello output](https://github.com/Tejaswini-167/Java-in-Jupyter/blob/main/images/HelloWorld_Output.png))
+
+
+**Install output ** 
+
 ![Install logs](images/install_logs.png)
+
 
 ---
 
